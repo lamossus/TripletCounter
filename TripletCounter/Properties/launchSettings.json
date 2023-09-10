@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TripletCounter": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\test.txt -i"
+    }
+  }
+}
